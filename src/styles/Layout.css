@@ -1,0 +1,7 @@
+body {
+    background: #202020;
+}
+
+h1 {
+    @apply text-4xl text-yellow-700
+}

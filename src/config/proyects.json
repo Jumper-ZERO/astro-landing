@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Project 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum est natus ut, distinctio unde molestiae soluta vel nihil quidem qui dolores delectus hic velit, neque minima placeat maxime magni blanditiis ex. Necessitatibus perspiciatis aliquid ex quaerat quia ad incidunt ratione? Tenetur enim rem vitae autem magni ea excepturi perferendis hic?",
+        "image": "images/dog.svg"
+    },
+    {
+        "title": "Project 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum est natus ut, distinctio unde molestiae soluta vel nihil quidem qui dolores delectus hic velit, neque minima placeat maxime magni blanditiis ex. Necessitatibus perspiciatis aliquid ex quaerat quia ad incidunt ratione? Tenetur enim rem vitae autem magni ea excepturi perferendis hic?",
+        "image": "images/dog.svg"
+    },
+    {
+        "title": "Farm Land 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum est natus ut, distinctio unde molestiae soluta vel nihil quidem qui dolores delectus hic velit, neque minima placeat maxime magni blanditiis ex. Necessitatibus perspiciatis aliquid ex quaerat quia ad incidunt ratione? Tenetur enim rem vitae autem magni ea excepturi perferendis hic?",
+        "image": "images/dog.svg"
+    },
+    {
+        "title": "Farm Land 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum est natus ut, distinctio unde molestiae soluta vel nihil quidem qui dolores delectus hic velit, neque minima placeat maxime magni blanditiis ex. Necessitatibus perspiciatis aliquid ex quaerat quia ad incidunt ratione? Tenetur enim rem vitae autem magni ea excepturi perferendis hic?",
+        "image": "images/dog.svg"
+    },
+    {
+        "title": "Farm Land 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum est natus ut, distinctio unde molestiae soluta vel nihil quidem qui dolores delectus hic velit, neque minima placeat maxime magni blanditiis ex. Necessitatibus perspiciatis aliquid ex quaerat quia ad incidunt ratione? Tenetur enim rem vitae autem magni ea excepturi perferendis hic?",
+        "image": "images/dog.svg"
+    }
+]
